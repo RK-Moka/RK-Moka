@@ -11,7 +11,6 @@
 - 📫 How to reach me: [here](https://github.com/)
 - ☁️ Quote of the month: "life has no ctrl-z 🌴"
 
-![snake gif](https://github.com/gruselhaus/gruselhaus/blob/output/github-contribution-grid-snake.svg)
 
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
